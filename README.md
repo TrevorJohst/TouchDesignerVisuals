@@ -8,6 +8,7 @@ All visuals should be able to run without any external downloads. Any common blo
         <li><a href="#ascii">ASCII</a></li>
         <li><a href="#particles">Particles</a></li>
         <li><a href="#globe">Globe</a></li>
+        <li><a href="#synth">Synth</a></li>
     </ol>
 </details>
 
@@ -15,7 +16,10 @@ All visuals should be able to run without any external downloads. Any common blo
 [![ASCII](https://imgur.com/2r5dNt8.png)](https://www.youtube.com/watch?v=e-rN297PobA)
 
 ## Particles
-[![Globe](https://imgur.com/KUwLexq.png)](https://www.youtube.com/watch?v=FY09EkFInRU)
+[![Particles](https://imgur.com/KUwLexq.png)](https://www.youtube.com/watch?v=FY09EkFInRU)
 
 ## Globe
 [![Globe](https://imgur.com/DTBJuEe.png)](https://www.youtube.com/watch?v=xQeRu2hxfhY)
+
+## Synth
+[![Synth](https://imgur.com/vsw9pFi.png)](https://youtu.be/1V4GbiaW01g?si=v1S-6VQuMTzG_EV6)
