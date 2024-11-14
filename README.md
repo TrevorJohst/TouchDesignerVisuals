@@ -9,6 +9,7 @@ All visuals should be able to run without any external downloads. Any common blo
         <li><a href="#chaotic-system">Chaotic System</a></li>
         <li><a href="#frequency-globe">Frequency Globe</a></li>
         <li><a href="#frequency-hills">Frequency Hills</a></li>
+        <li><a href="#internal-collapse">Internal Collapse</a></li>
     </ol>
 </details>
 
@@ -23,3 +24,6 @@ All visuals should be able to run without any external downloads. Any common blo
 
 ## Frequency Hills
 [![Frequency Hills](https://imgur.com/vsw9pFi.png)](https://youtu.be/1V4GbiaW01g?si=v1S-6VQuMTzG_EV6)
+
+## Internal Collapse
+[![Internal Collapse](https://imgur.com/Usaxwf8.png)](https://www.youtube.com/watch?v=EQuFD9CoDmQ)
